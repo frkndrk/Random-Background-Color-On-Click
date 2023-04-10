@@ -46,6 +46,13 @@ body {
     }
 }
 
+@media screen and (max-width: 524px) {
+    #click{
+        width: 80%;
+    }
+
+}
+
 
 
 
